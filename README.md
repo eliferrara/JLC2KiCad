@@ -24,7 +24,7 @@ A KiCad plugin that imports components from the JLCPCB/LCSC parts library direct
 Clone this repository and run the install script:
 
 ```bash
-git clone https://github.com/Ballistyxx/JLC2KiCad.git
+git clone https://github.com/eliferrara/JLC2KiCad.git
 cd JLC2KiCad
 ./install.sh
 ```
